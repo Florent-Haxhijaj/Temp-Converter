@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(22 26 45);
+}
+
+.menu {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  justify-content: center;
+}
+
+.avg-style {
+  display: flex;
+  flex-direction: row;
+}
+
+.avg-style-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.container h2 {
+  margin-top: 30px;
+  color: white;
+}
+hr {
+  display: flex;
+  justify-content: center;
+  width: 150px;
+  margin: 20px;
+  height: 0.5px;
+  outline: none;
+  border: none;
+  background-color: grey;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.logout {
+  display: flex;
+  flex-direction: column;
+  margin-block-start: 65vh;
+}
+
+.temp-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.result {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.result-vel {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.pjestim {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.temp-style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
